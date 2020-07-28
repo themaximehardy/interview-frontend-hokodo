@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  # REACT APP
+  client:
+    build: ./hokodo-bookshelf
+    ports:
+      - 3001:80
