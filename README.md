@@ -5,8 +5,12 @@ _Technical test for the frontend interview @Hokodo._
 ![hokodo bookshelf project](https://i.giphy.com/kD0KMHlMr1f4xhuFnI.gif)
 
 1. I've started with a simple `create-react-app` which offers all the tools we need to create a production ready React app.
-2. I've added some test libraries and a the react router (to make).
+2. I've added some test libraries (as devDependencies) and the react router (to create 2 _routes_ and a _404 page_).
 3. I've added a `Dockerfile` and a `Docker compose` file to deploy it easily.
+
+Let's launch it 🚀
+
+---
 
 Via **Docker**:
 
